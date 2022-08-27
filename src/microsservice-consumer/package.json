@@ -1,0 +1,16 @@
+{
+  "name": "microsservice-consumer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1204.0",
+    "nodemon": "^2.0.19",
+    "sqs-consumer": "^5.7.0"
+  }
+}
